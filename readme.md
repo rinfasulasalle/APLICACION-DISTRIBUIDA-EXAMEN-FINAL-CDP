@@ -373,4 +373,4 @@ Y luego vemos que si bota el resultado bein.
 ![Alt text](image-8.png)
 
 Video mostranto lo de matando un nodo(que aun funcione la aplicacion)y luego ambos nodo donde ya deja de funcionar la aplicación.
-[Video explicativo](pruebamatarnodos.mkv)
+[Video explicativo](pruebamatarnodos.mp4)
