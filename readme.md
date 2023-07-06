@@ -375,6 +375,11 @@ Y luego vemos que si bota el resultado bein.
 Video mostranto lo de matando un nodo(que aun funcione la aplicacion)y luego ambos nodo donde ya deja de funcionar la aplicación.
 [Video explicativo](pruebamatarnodos.mp4)
 
-<video width="1280" height="424" controls>
+<video width="800" height="600" controls>
   <source src="pruebamatarnodos.mp4" type="video/mp4">
 </video>
+
+## PROBLEMASs
+
+Para el video mp4 deberia botar algo asi, pero por alguna razon extraña no, sin embargo igual subimos le video para que pueda ser descargado y visualizado con mejor resolucion
+![Alt text](image-9.png)
