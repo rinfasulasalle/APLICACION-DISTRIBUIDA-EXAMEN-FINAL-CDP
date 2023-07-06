@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td>TAREA:</td>
-            <td>Sistema de recomendación de Películas Spark </td>
+            <td>Aplicacion Distribuido con Cluster </td>
         </tr>
         <tr>
             <td>DESCRIPCION:</td>
@@ -374,3 +374,7 @@ Y luego vemos que si bota el resultado bein.
 
 Video mostranto lo de matando un nodo(que aun funcione la aplicacion)y luego ambos nodo donde ya deja de funcionar la aplicación.
 [Video explicativo](pruebamatarnodos.mp4)
+
+<video width="1280" height="424" controls>
+  <source src="pruebamatarnodos.mp4" type="video/mp4">
+</video>
