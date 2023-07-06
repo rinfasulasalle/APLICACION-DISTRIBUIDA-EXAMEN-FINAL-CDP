@@ -57,4 +57,36 @@
     </tbody>
 </table>
 
-# XD
+# Configurar servidores
+
+Primero, deberá instalar Nginx en todos los servidores con el comando
+
+```bash
+apt-get install nginx -y
+```
+
+Una vez instalado, iniciar el servicio Nginx y habilítelo para que se inicie
+al reiniciar el sistema:
+
+```bash
+systemctl start nginx
+```
+
+```bash
+systemctl enable nginx
+```
+
+A continuación, deberá configurar ambos servidores de aplicaciones.
+
+En el primer servidor de aplicaciones, elimine el archivo index.html
+predeterminado
+
+```bash
+rm -rf /usr/share/nginx/html/index.html
+```
+
+Ahora creamos nuevo
+
+```bash
+nano /usr/share/nginx/html/index.html
+```
